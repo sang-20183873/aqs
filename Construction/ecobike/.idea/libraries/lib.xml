@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jstl-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.48-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.48.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2-bin.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-20201115.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcomponents-client-4.5.13-bin.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jstl-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence-api-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
